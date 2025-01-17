@@ -1,4 +1,4 @@
-# FlowModel Documentation
+# FlowModel
 
 FlowModel is a lightweight and extensible machine learning framework designed for beginners who want to explore AI development. With its modular plugin-based architecture, users can easily extend its functionality while keeping the core simple and maintainable.
 
