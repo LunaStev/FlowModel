@@ -32,7 +32,7 @@ FlowModel provides a simple entry point for experimenting with AI and machine le
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/FlowModel.git
+   git clone https://github.com/LunaStev/FlowModel.git
    cd FlowModel
    ```
 
@@ -59,7 +59,6 @@ FlowModel/
 │   ├── example_plugin.py # Example plugin
 ├── data/               # Placeholder for datasets
 ├── requirements.txt    # Python dependencies
-├── utils.py            # Utility functions
 ```
 
 ---
