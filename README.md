@@ -128,7 +128,7 @@ Contributions are welcome! To contribute:
 ---
 
 ## License
-FlowModel is released under the MIT License. See `LICENSE` for details.
+FlowModel is released under the MPL-2.0 License. See [LICENSE](LICENSE) for details.
 
 ---
 
